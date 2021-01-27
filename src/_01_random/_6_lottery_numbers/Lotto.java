@@ -1,3 +1,4 @@
+main
 package _01_random._6_lottery_numbers;
 
 import java.util.Random;
@@ -17,7 +18,9 @@ public class Lotto {
 		else if (randomNumber == 4) {System.out.println("4");}
 		else if (randomNumber == 4) {System.out.println("5");}
 		else if (randomNumber == 0) {System.out.println("0");}
-				// 2. Repeat all the code above 10 times
+		}
 	}
+		// 2. Repeat all the code above 10 times
+	
 
-}
+
