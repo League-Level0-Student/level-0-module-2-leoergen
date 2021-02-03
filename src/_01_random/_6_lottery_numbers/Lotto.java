@@ -1,4 +1,4 @@
-main
+
 package _01_random._6_lottery_numbers;
 
 import java.util.Random;
